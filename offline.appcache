@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Time: Thu Mar 12 2015 10:36:27 GMT-0400 (EDT)
+# Time: Fri Mar 13 2015 07:19:03 GMT-0400 (EDT)
 
 
 CACHE:
@@ -31,12 +31,15 @@ icon/mstile-310x310.png
 icon/mstile-70x70.png
 assets/atlases/buttons.json
 assets/atlases/levels.json
+assets/images/background.png
 assets/images/buttons.png
 assets/images/credits.png
+assets/images/donda.png
 assets/images/levels.png
 assets/images/phaser.png
 assets/images/preloader-background.png
 assets/images/preloader-bar.png
+assets/images/title.jpg
 assets/images/title.png
 
 
